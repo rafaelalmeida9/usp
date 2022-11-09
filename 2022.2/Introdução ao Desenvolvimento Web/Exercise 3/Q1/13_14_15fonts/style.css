@@ -1,0 +1,11 @@
+h1{
+    font-family: 'Bungee Spice', cursive;
+}
+
+p{
+    font-family: Arial, Verdana, sans-serif;
+    font-variant: small-caps;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1em;
+}

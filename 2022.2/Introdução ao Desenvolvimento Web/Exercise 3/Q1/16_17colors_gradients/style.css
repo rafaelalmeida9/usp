@@ -1,0 +1,13 @@
+#cores{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: rgb(94, 148, 43);
+    color: rgb(160, 11, 165);
+}
+
+#cores2{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background: linear-gradient(45deg,pink, purple);

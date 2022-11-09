@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+}
+
+#base{
+    background-color: aqua;
+    width: 500px;
+    height: 500px;
+}
+
+#left{
+    background-color: blue;
+    width: 250px;
+    height: 250px;
+    float: left;
+}
+
+#right{
+    background-color: violet;
+    width: 250px;
+    height: 250px;
+    float: right;
+}

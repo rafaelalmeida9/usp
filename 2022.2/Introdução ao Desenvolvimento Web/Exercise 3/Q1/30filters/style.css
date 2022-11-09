@@ -1,0 +1,4 @@
+img{
+    margin: 40px 0 0 60px;
+    filter: contrast(190%) hue-rotate(50deg) drop-shadow(10px 10px 10px #000);
+}

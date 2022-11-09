@@ -1,0 +1,1 @@
+echo 'canaldelado' | nc 67.205.185.34 1337

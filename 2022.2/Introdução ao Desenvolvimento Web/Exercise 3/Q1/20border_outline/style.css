@@ -1,0 +1,10 @@
+#exemplo{
+    border-style: dotted;
+    border-width: 5px;
+    border-color: blueviolet;
+}
+
+#exemplo2{
+    border: solid 2px red;
+    outline: dashed lime 5px;
+}

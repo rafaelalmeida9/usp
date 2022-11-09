@@ -1,0 +1,8 @@
+echo -n input1.txt && time ./ordens < input1.txt > output1.txt && echo 
+echo -n input3.txt && time ./ordens < input3.txt > output3.txt && echo 
+echo -n input5.txt && time ./ordens < input5.txt > output5.txt && echo 
+echo -n input7.txt && time ./ordens < input7.txt > output7.txt && echo 
+echo -n input11.txt && time ./ordens < input11.txt > output11.txt && echo 
+echo -n input12.txt && time ./ordens < input12.txt > output12.txt && echo 
+echo -n input13.txt && time ./ordens < input13.txt > output13.txt && echo 
+echo -n input15.txt && time ./ordens < input15.txt > output15.txt && echo 

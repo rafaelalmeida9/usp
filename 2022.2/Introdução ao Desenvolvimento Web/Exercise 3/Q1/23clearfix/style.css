@@ -1,0 +1,28 @@
+.container{
+    background-color: blue;
+    width: 500px;
+}
+
+.box1{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.box2{
+    background-color: purple;
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+/*Clearfix*/
+.container::before, .container::after{
+    content: '';
+    display: table;
+}
+
+.container::after{
+    clear: both;
+}

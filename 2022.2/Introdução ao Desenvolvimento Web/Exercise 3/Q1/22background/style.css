@@ -1,0 +1,8 @@
+body{
+    background-color: purple;
+    background-image: url(./icmc-destaque.png);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    color: red;
+}
